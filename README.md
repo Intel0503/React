@@ -1,3 +1,15 @@
 # REACT Stepping Stone
 
-## Learned components,props,POST,GET,DELETE, and BrowserRouter
+## Learned
+
+### components
+
+### props
+
+### POST
+
+### GET
+
+### DELETE
+
+### BrowserRouter
